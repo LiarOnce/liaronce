@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#👯 Organization
+# 👯 Organization
 
 [@ACGFIE](https://github.com/ACGFIE) [@LiarOnceP](https://github.com/LiarOnceP) [@GamemakerChina](https://github.com/GamemakerChina)
 
-#⚡ GitHub Stats
+# ⚡ GitHub Stats
 
 [![LiarOnce's github stats](https://github-readme-stats.vercel.app/api?username=LiarOnce)](https://github.com/LiarOnce/liaronce)
