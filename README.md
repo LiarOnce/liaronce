@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 💬 Some one
+
+Stream：[BiliBili](https://live.bilibili.com/254793)
+
 # 👯 Organization
 
 [@ACGFIE](https://github.com/ACGFIE) [@LiarOnceP](https://github.com/LiarOnceP) [@GamemakerChina](https://github.com/GamemakerChina)
