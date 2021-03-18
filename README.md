@@ -1,14 +1,15 @@
 <h2 align="center">Hi there, I'm LiarOnce 👋</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LiarOnce/liaronce/main/me.gif" alt="Me"><br>
-  <a href="https://github.com/LiarOnce/liaronce"><img src="https://github-readme-stats.vercel.app/api?username=LiarOnce&amp;theme=nord" alt="LiarOnce's github stats"></a><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaronce&amp;layout=compact" alt="Top Langs">
-</p>
+<p align="center">宫廷玉液酒，____________</p>
 <p align="center">
   <a href="https://space.bilibili.com/8079156"><img src="https://img.shields.io/badge/-bilibili-66ccff" alt=""></a>&nbsp
   <a href="https://live.bilibili.com/254793"><img src="https://img.shields.io/badge/-bilibili%20Stream-66ccff" alt=""></a>&nbsp
   <a href="https://twitter.com/LiarOnce_P"><img src="https://img.shields.io/badge/-Twitter-blue" alt=""></a><br>
   <img src="https://img.shields.io/badge/-Discord-blueviolet" alt="">: LiarOnce#2727
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LiarOnce/liaronce/main/me.gif" alt="Me"><br>
+  <a href="https://github.com/LiarOnce/liaronce"><img src="https://github-readme-stats.vercel.app/api?username=LiarOnce&amp;theme=nord" alt="LiarOnce's github stats"></a><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaronce&amp;layout=compact" alt="Top Langs">
 </p>
 
 ## 👯 I'm in these organizations
@@ -42,7 +43,12 @@
     </tbody>
   </table>
   
-## My computer
+## 🤔 What am I doing now?
+
+ - 📚 [gms2translation](https://github.com/GamemakerChina/gms2translation) Translation with my like-minded friends.
+ - 📺 Stream on bilibili based on my interest
+
+## 💻 My computer
 
 <table align="center">
             <thead>
@@ -94,6 +100,7 @@
                 </tr>
             </tbody>
         </table>
+
 
 <!--
 **LiarOnce/liaronce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
