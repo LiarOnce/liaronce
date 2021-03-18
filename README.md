@@ -13,8 +13,7 @@
 
 ## 👯 I'm in these organizations
 
-<p align="center">
-  <table>
+  <table align="center">
     <thead>
       <tr>
         <th style='text-align:center;' >ACGF Interactive Entertainment</th>
@@ -42,9 +41,59 @@
       </tr>
     </tbody>
   </table>
-</p>
+  
+## My computer
 
-
+<table align="center">
+            <thead>
+                <tr>
+                    <th style='text-align:center;'>Computer</th>
+                    <th style='text-align:center;'>HASEE GX9-CT5DK (Clevo N970TF)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style='text-align:center;'>CPU</td>
+                    <td style='text-align:center;'>Genuine Intel(R) CPU 0000 (QQZ5 | i9-9900 ES)</td>
+                </tr>
+                <tr>
+                    <td style='text-align:center;'>RAM</td>
+                    <td style='text-align:center;'>16GB (8GB*2)</td>
+                </tr>
+                <tr>
+                    <td style='text-align:center;'>Graphics 0</td>
+                    <td style='text-align:center;'>Intel UHD Graphics 630 (Integrated graphics)</td>
+                </tr>
+                <tr>
+                    <td style='text-align:center;'>Graphics 1</td>
+                    <td style='text-align:center;'>NVIDIA GeForce RTX 2070 (8GB GDDR6 Laptop)</td>
+                </tr>
+                <tr>
+                    <td style='text-align:center;'>SSD-1</td>
+                    <td style='text-align:center;'>500G (Western Digital SN750)</td>
+                </tr>
+                <tr>
+                    <td style='text-align:center;'>SSD-2</td>
+                    <td style='text-align:center;'>500G (Kioxia RC10)</td>
+                </tr>
+                <tr>
+                    <td style='text-align:center;'>HDD</td>
+                    <td style='text-align:center;'>1TB (Western Digital WD Blue)</td>
+                </tr>
+                <tr>
+                    <td style='text-align:center;'>WiFi</td>
+                    <td style='text-align:center;'>Intel Wi-Fi 6 AX200</td>
+                </tr>
+                <tr>
+                    <td style='text-align:center;'>Keyboard</td>
+                    <td style='text-align:center;'>IKBC C87 (Cherry MX Red)</td>
+                </tr>
+                <tr>
+                    <td style='text-align:center;'>Other</td>
+                    <td style='text-align:center;'>Xbox controller</td>
+                </tr>
+            </tbody>
+        </table>
 
 <!--
 **LiarOnce/liaronce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
