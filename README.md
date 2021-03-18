@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/-Discord-blueviolet" alt="">: LiarOnce#2727
 </p>
 
-### 👯 I'm in these organizations
+## 👯 I'm in these organizations
 
 <p align="center">
   <table>
@@ -60,8 +60,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-# ⚡ GitHub Stats
 
 
