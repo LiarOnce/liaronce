@@ -86,8 +86,8 @@
                     <td style='text-align:center;'>500G (Kioxia RC10)</td>
                 </tr>
                 <tr>
-                    <td style='text-align:center;'>HDD</td>
-                    <td style='text-align:center;'>1TB (Western Digital WD Blue)</td>
+                    <td style='text-align:center;'>SSD-3</td>
+                    <td style='text-align:center;'>1TB (ZHITAI SC001 Active)</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>WiFi</td>
