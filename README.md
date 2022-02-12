@@ -67,7 +67,7 @@
                 </tr>
                 <tr>
                     <td style='text-align:center;'>RAM</td>
-                    <td style='text-align:center;'>16GB (8GB*2)</td>
+                    <td style='text-align:center;'>64GB (32GB*2)</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>Graphics 0</td>
