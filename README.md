@@ -11,8 +11,8 @@
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/LiarOnce/liaronce/main/me.gif" alt="Me"><br>
-  <a href="https://github.com/LiarOnce/liaronce"><img src="https://github-readme-stats.vercel.app/api?username=LiarOnce&amp;theme=nord" alt="LiarOnce's github stats"></a><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaronce&amp;layout=compact" alt="Top Langs">
+  <a href="https://github.com/LiarOnce/liaronce"><img src="https://github-readme-stats.vercel.app/api?username=LiarOnce&amp;theme=nord" alt="LiarOnce's github stats"></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaronce&amp;layout=compact" alt="Top Langs">
+  <img src="https://genshin-card.getloli.com/107/10691382.png" alt="Genshin">
 </p>
 
 ## 👯 I'm in these organizations
