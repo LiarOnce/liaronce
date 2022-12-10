@@ -102,8 +102,8 @@
                 <tr>
                     <td style='text-align:center;'>SSD-3</td>
                     <td style='text-align:center;'>1TB (ZHITAI SC001 Active)</td>
-                    <td style='text-align:center;'>SSD-2</td>
-                    <td style='text-align:center;'>None</td>
+                    <td style='text-align:center;'>SSD-3</td>
+                    <td style='text-align:center;'>256G (Western Digital SA530)</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>WiFi</td>
