@@ -112,8 +112,8 @@
                     <td style='text-align:center;'>Intel Wi-Fi 6 AX200</td>
                 </tr>
                 <tr>
-                    <td style='text-align:center;'>Keyboard</td>
-                    <td style='text-align:center;' colspan="3">IKBC C87 (Cherry MX Red)</td>
+                    <td style='text-align:center;'>Keyboard & Mouse</td>
+                    <td style='text-align:center;' colspan="3">Logitech MX Mechanical Mini(Kailh CHOC Brown) & Logitech MX Master 3</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>Other</td>
