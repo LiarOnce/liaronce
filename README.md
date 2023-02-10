@@ -89,7 +89,7 @@
                 </tr>
                 <tr>
                     <td style='text-align:center;'>SSD-1</td>
-                    <td style='text-align:center;'>500GB (Western Digital SN750)</td>
+                    <td style='text-align:center;'>1TB (ZHITAI TiPlus7100)</td>
                     <td style='text-align:center;'>SSD-1</td>
                     <td style='text-align:center;'>500GB (Kioxia RC10)</td>
                 </tr>
@@ -97,13 +97,13 @@
                     <td style='text-align:center;'>SSD-2</td>
                     <td style='text-align:center;'>1TB (ZHITAI TiPlus5000)</td>
                     <td style='text-align:center;'>SSD-2</td>
-                    <td style='text-align:center;'>256GB (Western Digital SA530)</td>
+                    <td style='text-align:center;'>500GB (Western Digital SN750)</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>SSD-3</td>
                     <td style='text-align:center;'>1TB (ZHITAI SC001 Active)</td>
                     <td style='text-align:center;'>SSD-3</td>
-                    <td style='text-align:center;'>240GB (UNIC2 S100)</td>
+                    <td style='text-align:center;'>256GB (Western Digital SA530)</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>WiFi</td>
