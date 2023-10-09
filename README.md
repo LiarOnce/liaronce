@@ -59,7 +59,7 @@
                     <th style='text-align:center;'>Computer 1</th>
                     <th style='text-align:center;'>HASEE GX9-CT5DK (Clevo N970TF)</th>
                     <th style='text-align:center;'>Computer 2</th>
-                    <th style='text-align:center;'>HASEE K650D-G4D3 (Clevo W650DC)</th>
+                    <th style='text-align:center;'>MECHREVO WUJIE 14 Pro 2023 (Ryzen ver.)</th>
                 </tr>
             </thead>
             <tbody>
@@ -67,7 +67,7 @@
                     <td style='text-align:center;'>CPU</td>
                     <td style='text-align:center;'>Genuine Intel(R) CPU 0000 (QQZ5 | i9-9900 ES)</td>
                     <td style='text-align:center;'>CPU</td>
-                    <td style='text-align:center;'>Genuine Intel(R) CPU 0000 (QN8J | i7-8700T ES)</td>
+                    <td style='text-align:center;'>AMD Ryzen 7 7840HS</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>RAM</td>
@@ -79,19 +79,19 @@
                     <td style='text-align:center;'>Graphics 0</td>
                     <td style='text-align:center;'>Intel UHD Graphics 630 (Integrated graphics)</td>
                     <td style='text-align:center;'>Graphics 0</td>
-                    <td style='text-align:center;'>Intel UHD Graphics 630 (Integrated graphics)</td>
+                    <td style='text-align:center;'>AMD Radeon 780M (4GB DDR5-5600 and Integrated graphics)</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>Graphics 1</td>
                     <td style='text-align:center;'>NVIDIA GeForce RTX 2070 (8GB GDDR6 Laptop)</td>
                     <td style='text-align:center;'>Graphics 1</td>
-                    <td style='text-align:center;'>NVIDIA GeForce GTX 950M (2GB GDDR5 Laptop)</td>
+                    <td style='text-align:center;'>N/A</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>SSD-1</td>
                     <td style='text-align:center;'>1TB (ZHITAI TiPlus7100)</td>
                     <td style='text-align:center;'>SSD-1</td>
-                    <td style='text-align:center;'>500GB (Kioxia RC10)</td>
+                    <td style='text-align:center;'>1TB (Kingston OEM)</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>SSD-2</td>
@@ -103,13 +103,13 @@
                     <td style='text-align:center;'>SSD-3</td>
                     <td style='text-align:center;'>1TB (ZHITAI SC001 Active)</td>
                     <td style='text-align:center;'>SSD-3</td>
-                    <td style='text-align:center;'>256GB (Western Digital SA530)</td>
+                    <td style='text-align:center;'>N/A</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>WiFi</td>
-                    <td style='text-align:center;'>Intel Wi-Fi 6 AX210</td>
+                    <td style='text-align:center;'>Intel Wi-Fi 6E AX210</td>
                     <td style='text-align:center;'>WiFi</td>
-                    <td style='text-align:center;'>Intel Wi-Fi 6 AX200</td>
+                    <td style='text-align:center;'>AMD Wi-Fi 6E RZ608 (Mediatek MT7921K)</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>Keyboard & Mouse</td>
@@ -117,7 +117,7 @@
                 </tr>
                 <tr>
                     <td style='text-align:center;'>Other</td>
-                    <td style='text-align:center;' colspan="3">Xbox controller</td>
+                    <td style='text-align:center;' colspan="3">8BitDo Ultimate 2.4G Wireless Controller<br />8BitDo SN30 Pro for Android Controller</td>
                 </tr>
             </tbody>
         </table>
