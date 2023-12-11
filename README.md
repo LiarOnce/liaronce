@@ -9,11 +9,11 @@
   <a href="https://twitter.com/LiarOnce_P"><img src="https://img.shields.io/badge/-Twitter-blue" alt=""></a><br>
   <img src="https://img.shields.io/badge/-Discord-blueviolet" alt="">: LiarOnce#2727
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LiarOnce/liaronce/main/me.gif" alt="Me"><br>
-  <a href="https://github.com/LiarOnce/liaronce"><img src="https://github-readme-stats.vercel.app/api?username=LiarOnce&amp;theme=nord" alt="LiarOnce's github stats"></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaronce&amp;layout=compact" alt="Top Langs">
-  <img src="https://genshin-card.liaronce.com/107/10691382.png" alt="Genshin">
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/LiarOnce/liaronce/main/me.gif" alt="" /></p>
+
+[![LiarOnce's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiarOnce&show_icons=true&theme=dark)](https://github.com/LiarOnce) 
+![Genshin](https://genshin-card.liaronce.com/107/10691382.png)  
+[![LiarOnce'sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiarOnce&layout=compact&hide=php,java)](https://github.com/LiarOnce)  
 
 ## 👯 I'm in these organizations
 
