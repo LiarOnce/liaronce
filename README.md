@@ -57,7 +57,7 @@
             <thead>
                 <tr>
                     <th style='text-align:center;'>Computer 1</th>
-                    <th style='text-align:center;'>HASEE GX9-CT5DK (Clevo N970TF)</th>
+                    <th style='text-align:center;'>"MoDT" PC</th>
                     <th style='text-align:center;'>Computer 2</th>
                     <th style='text-align:center;'>MECHREVO WUJIE 14 Pro 2023 (Ryzen ver.)</th>
                 </tr>
@@ -65,7 +65,7 @@
             <tbody>
                 <tr>
                     <td style='text-align:center;'>CPU</td>
-                    <td style='text-align:center;'>Genuine Intel(R) CPU 0000 (QQZ5 | i9-9900 ES)</td>
+                    <td style='text-align:center;'>Intel Core i7-13620H</td>
                     <td style='text-align:center;'>CPU</td>
                     <td style='text-align:center;'>AMD Ryzen 7 7840HS</td>
                 </tr>
@@ -77,13 +77,13 @@
                 </tr>
                 <tr>
                     <td style='text-align:center;'>Graphics 0</td>
-                    <td style='text-align:center;'>Intel UHD Graphics 630 (Integrated graphics)</td>
+                    <td style='text-align:center;'>Intel UHD Graphics (Integrated graphics)</td>
                     <td style='text-align:center;'>Graphics 0</td>
                     <td style='text-align:center;'>AMD Radeon 780M (4GB DDR5-5600 and Integrated graphics)</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>Graphics 1</td>
-                    <td style='text-align:center;'>NVIDIA GeForce RTX 2070 (8GB GDDR6 Laptop)</td>
+                    <td style='text-align:center;'>NVIDIA GeForce RTX 3060 (12GB GDDR6 Desktop)</td>
                     <td style='text-align:center;'>Graphics 1</td>
                     <td style='text-align:center;'>N/A</td>
                 </tr>
@@ -107,7 +107,7 @@
                 </tr>
                 <tr>
                     <td style='text-align:center;'>WiFi</td>
-                    <td style='text-align:center;'>Intel Wi-Fi 6E AX210</td>
+                    <td style='text-align:center;'>Intel Wi-Fi 6E AX211</td>
                     <td style='text-align:center;'>WiFi</td>
                     <td style='text-align:center;'>AMD Wi-Fi 6E RZ608 (Mediatek MT7921K)</td>
                 </tr>
@@ -117,7 +117,7 @@
                 </tr>
                 <tr>
                     <td style='text-align:center;'>Other</td>
-                    <td style='text-align:center;' colspan="3">8BitDo Ultimate 2.4G Wireless Controller<br />8BitDo SN30 Pro for Android Controller</td>
+                    <td style='text-align:center;' colspan="3">8BitDo Ultimate 2.4G Wireless Controller<br />8BitDo SN30 Pro for Android Controller<br />ASUS BC-12D2HT</td>
                 </tr>
             </tbody>
         </table>
