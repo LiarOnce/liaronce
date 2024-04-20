@@ -56,11 +56,9 @@
 <table align="center">
             <thead>
                 <tr>
-                    <th style='text-align:center;'>Computer 1</th>
+                    <th style='text-align:center;'>Computer</th>
                     <th style='text-align:center;'>"MoDT" PC</th>
-                    <th style='text-align:center;'>Computer 2</th>
-                    <th style='text-align:center;'>MECHREVO WUJIE 14 Pro 2023 (Ryzen ver.)</th>
-                    <th style='text-align:center;'>Computer 3</th>
+                    <th style='text-align:center;'>MECHREVO WUJIE 14 Pro 2023<br />(Ryzen ver.)</th>
                     <th style='text-align:center;'>Panasonic CF-SZ6</th>
                 </tr>
             </thead>
@@ -68,62 +66,44 @@
                 <tr>
                     <td style='text-align:center;'>CPU</td>
                     <td style='text-align:center;'>Intel Core i7-13620H</td>
-                    <td style='text-align:center;'>CPU</td>
                     <td style='text-align:center;'>AMD Ryzen 7 7840HS</td>
-                    <td style='text-align:center;'>CPU</td>
                     <td style='text-align:center;'>Intel Core i5-7300U</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>RAM</td>
                     <td style='text-align:center;'>64GB (32GB*2)</td>
-                    <td style='text-align:center;'>RAM</td>
                     <td style='text-align:center;'>32GB (16GB*2)</td>
-                    <td style='text-align:center;'>RAM</td>
                     <td style='text-align:center;'>8GB</td>
                 </tr>
                 <tr>
-                    <td style='text-align:center;'>Graphics 0</td>
-                    <td style='text-align:center;'>Intel UHD Graphics (Integrated graphics)</td>
-                    <td style='text-align:center;'>Graphics 0</td>
+                    <td style='text-align:center;'>Graphics</td>
+                    <td style='text-align:center;'>Intel UHD Graphics (Integrated graphics)<br />NVIDIA GeForce RTX 3060 (12GB GDDR6 Desktop)</td>
                     <td style='text-align:center;'>AMD Radeon 780M (4GB DDR5-5600 and Integrated graphics)</td>
-                    <td style='text-align:center;'>Graphics 0</td>
                     <td style='text-align:center;'>Intel HD Graphics 620 (Integrated graphics)</td>
-                </tr>
-                <tr>
-                    <td style='text-align:center;'>Graphics 1</td>
-                    <td style='text-align:center;'>NVIDIA GeForce RTX 3060 (12GB GDDR6 Desktop)</td>
-                    <td style='text-align:center;'>Graphics 1</td>
-                    <td style='text-align:center;'>N/A</td>
-                    <td style='text-align:center;'>Graphics 1</td>
-                    <td style='text-align:center;'>N/A</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>SSD</td>
                     <td style='text-align:center;'>1TB (ZHITAI TiPlus7100)<br />1TB (ZHITAI TiPlus5000)<br />1TB (ZHITAI SC001 Active)</td>
-                    <td style='text-align:center;'>SSD</td>
                     <td style='text-align:center;'>1TB (Kingston OEM)<br />500GB (Western Digital SN750)</td>
-                    <td style='text-align:center;'>SSD</td>
                     <td style='text-align:center;'>256G (Samsung PM871a OEM)</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>WiFi</td>
                     <td style='text-align:center;'>Intel Wi-Fi 6E AX211</td>
-                    <td style='text-align:center;'>WiFi</td>
                     <td style='text-align:center;'>AMD Wi-Fi 6E RZ608 (Mediatek MT7921K)</td>
-                    <td style='text-align:center;'>WiFi</td>
                     <td style='text-align:center;'>Intel Dual Band Wireless-AC 8265</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>Keyboard & Mouse</td>
-                    <td style='text-align:center;' colspan="5">Logitech MX Mechanical Mini(Kailh CHOC Brown) & Logitech MX Master 3</td>
+                    <td style='text-align:center;' colspan="3">Logitech MX Mechanical Mini(Kailh CHOC Brown) & Logitech MX Master 3</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>Other</td>
-                    <td style='text-align:center;' colspan="5">8BitDo Ultimate 2.4G Wireless Controller<br />8BitDo SN30 Pro for Android Controller<br />ASUS BC-12D2HT</td>
+                    <td style='text-align:center;' colspan="3">8BitDo Ultimate 2.4G Wireless Controller<br />8BitDo SN30 Pro for Android Controller<br />ASUS BC-12D2HT</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>Computer 4</td>
-                    <td style='text-align:center;' colspan="5">For my Loongson 3A6000 PC, please see <a href="https://github.com/LiarOnce-LoongAL">LiarOnce-LoongAL</a></td>
+                    <td style='text-align:center;' colspan="3">For my Loongson 3A6000 PC, please see <a href="https://github.com/LiarOnce-LoongAL">LiarOnce-LoongAL</a></td>
                 </tr>
             </tbody>
         </table>
