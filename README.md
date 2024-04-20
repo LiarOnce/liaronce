@@ -94,6 +94,17 @@
                     <td style='text-align:center;'>Intel Dual Band Wireless-AC 8265</td>
                 </tr>
                 <tr>
+                    <td style='text-align:center;'>Flags</td>
+                    <td style='text-align:center;'><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows+11&color=0078D4&logo=Windows+11&logoColor=FFFFFF&label=" /></td>
+                    <td style='text-align:center;'>
+                      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows+11&color=0078D4&logo=Windows+11&logoColor=FFFFFF&label=" />
+                      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Manjaro&color=35BF5C&logo=manjaro&logoColor=FFFFFF&label=" />
+                    </td>
+                    <td style='text-align:center;'>
+                      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows+10&color=0078D6&logo=Windows+10&logoColor=FFFFFF&label=" />
+                    </td>
+                </tr>
+                <tr>
                     <td style='text-align:center;'>Keyboard & Mouse</td>
                     <td style='text-align:center;' colspan="3">Logitech MX Mechanical Mini(Kailh CHOC Brown) & Logitech MX Master 3</td>
                 </tr>
@@ -103,7 +114,12 @@
                 </tr>
                 <tr>
                     <td style='text-align:center;'>Computer 4</td>
-                    <td style='text-align:center;' colspan="3">For my Loongson 3A6000 PC, please see <a href="https://github.com/LiarOnce-LoongAL">LiarOnce-LoongAL</a></td>
+                    <td style='text-align:center;' colspan="3">
+                      For my Loongson 3A6000 PC, please see <a href="https://github.com/LiarOnce-LoongAL">LiarOnce-LoongAL</a>
+                      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Arch+Linux&color=1793D1&logo=Arch+Linux&logoColor=FFFFFF&label=" />
+                      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label=" />
+                      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Deepin&color=007CFF&logo=deepin&logoColor=FFFFFF&label=" />
+                    </td>
                 </tr>
             </tbody>
         </table>
