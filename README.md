@@ -101,7 +101,7 @@
                       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Manjaro&color=35BF5C&logo=manjaro&logoColor=FFFFFF&label=" />
                     </td>
                     <td style='text-align:center;'>
-                      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows+10&color=0078D6&logo=Windows+10&logoColor=FFFFFF&label=" />
+                      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows+IoT+LTSC+2024&color=0078D4&logo=Windows+11&logoColor=FFFFFF&label=" />
                     </td>
                 </tr>
                 <tr>
