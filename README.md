@@ -57,7 +57,7 @@
             <thead>
                 <tr>
                     <th style='text-align:center;'>Computer</th>
-                    <th style='text-align:center;'>"MoDT" PC</th>
+                    <th style='text-align:center;'>Main PC</th>
                     <th style='text-align:center;'>MECHREVO WUJIE 14 Pro 2023<br />(Ryzen ver.)</th>
                     <th style='text-align:center;'>Panasonic CF-SZ6</th>
                 </tr>
@@ -65,31 +65,31 @@
             <tbody>
                 <tr>
                     <td style='text-align:center;'>CPU</td>
-                    <td style='text-align:center;'>Intel Core i7-13620H</td>
+                    <td style='text-align:center;'>AMD Ryzen 9 9950X</td>
                     <td style='text-align:center;'>AMD Ryzen 7 7840HS</td>
                     <td style='text-align:center;'>Intel Core i5-7300U</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>RAM</td>
-                    <td style='text-align:center;'>64GB (32GB*2)</td>
+                    <td style='text-align:center;'>96GB (48GB*2)</td>
                     <td style='text-align:center;'>32GB (16GB*2)</td>
                     <td style='text-align:center;'>8GB</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>Graphics</td>
-                    <td style='text-align:center;'>Intel UHD Graphics (Integrated graphics)<br />NVIDIA GeForce RTX 3060 (12GB GDDR6 Desktop)</td>
+                    <td style='text-align:center;'>NVIDIA GeForce RTX 3060 (12GB GDDR6 Desktop)</td>
                     <td style='text-align:center;'>AMD Radeon 780M (4GB DDR5-5600 and Integrated graphics)</td>
                     <td style='text-align:center;'>Intel HD Graphics 620 (Integrated graphics)</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>SSD</td>
-                    <td style='text-align:center;'>1TB (ZHITAI TiPlus7100)<br />1TB (ZHITAI TiPlus5000)<br />1TB (ZHITAI SC001 Active)</td>
+                    <td style='text-align:center;'>1TB (ZHITAI TiPlus7100)<br />1TB (ZHITAI TiPlus7100)<br />1TB (Kingston NV3)<br />1TB (ZHITAI SC001 Active)</td>
                     <td style='text-align:center;'>1TB (Kingston OEM)<br />500GB (Western Digital SN750)</td>
                     <td style='text-align:center;'>256G (Samsung PM871a OEM)</td>
                 </tr>
                 <tr>
                     <td style='text-align:center;'>WiFi</td>
-                    <td style='text-align:center;'>Intel Wi-Fi 6E AX211</td>
+                    <td style='text-align:center;'>AMD Wi-Fi 6E RZ616 (Mediatek MT7922)</td>
                     <td style='text-align:center;'>AMD Wi-Fi 6E RZ608 (Mediatek MT7921K)</td>
                     <td style='text-align:center;'>Intel Dual Band Wireless-AC 8265</td>
                 </tr>
