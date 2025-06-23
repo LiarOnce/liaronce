@@ -84,7 +84,7 @@
                 <tr>
                     <td style='text-align:center;'>SSD</td>
                     <td style='text-align:center;'>1TB (ZHITAI TiPlus7100)<br />1TB (ZHITAI TiPlus7100)<br />1TB (Kingston NV3)<br />1TB (ZHITAI SC001 Active)</td>
-                    <td style='text-align:center;'>1TB (Kingston OEM)<br />500GB (Western Digital SN750)</td>
+                    <td style='text-align:center;'>1TB (Kingston OEM)<br />1TB (Kioxia SD10)</td>
                     <td style='text-align:center;'>256G (Samsung PM871a OEM)</td>
                 </tr>
                 <tr>
